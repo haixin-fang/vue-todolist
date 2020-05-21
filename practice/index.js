@@ -1,0 +1,6 @@
+// import './instance'
+// import './binding'
+// import './computed'
+// import './component/define.js'
+// import './component/v-model.js'
+import './component/render.js'
